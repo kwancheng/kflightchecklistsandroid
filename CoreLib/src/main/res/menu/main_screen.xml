@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.acproma.kflightchecklists.screens.MainScreen" >
+    <item android:id="@+id/menu_item_reload_data"
+        android:title="@string/main_screen_menu_item_reload_data"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

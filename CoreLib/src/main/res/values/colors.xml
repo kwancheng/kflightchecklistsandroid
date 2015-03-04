@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selected_action_item">#FF00FF00</color>
+    <color name="action_item_text_unfocused">#FFDDDDDD</color>
+    <color name="action_item_text_focused">#FF000000</color>
+	<color name="background">#FF0081AD</color>
+	<color name="element_background">#FFFFFFFF</color>
+	<color name="caution_row">#FFCF0404</color>
+	<color name="caution_text">#FFFFFFFF</color>
+	<color name="note_row">#FF49B5E3</color>
+	<color name="note_text">#FFFFFFFF</color>
+</resources>

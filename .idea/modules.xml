@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoreLib/CoreLib.iml" filepath="$PROJECT_DIR$/CoreLib/CoreLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Free R22/Free R22.iml" filepath="$PROJECT_DIR$/Free R22/Free R22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KFlightChecklists.iml" filepath="$PROJECT_DIR$/KFlightChecklists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KFlightChecklists Android.iml" filepath="$PROJECT_DIR$/KFlightChecklists Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro/Pro.iml" filepath="$PROJECT_DIR$/Pro/Pro.iml" />
+    </modules>
+  </component>
+</project>
+

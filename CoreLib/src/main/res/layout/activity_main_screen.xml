@@ -1,0 +1,37 @@
+<LinearLayout
+    android:id="@+id/main_content_area"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:orientation="vertical"
+    tools:context="com.acproma.kflightchecklists.screens.MainScreen"
+	android:background="@color/background"
+	>
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="@drawable/activity_background"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Craft"
+            android:textColor="#ff000000"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:background="@color/element_background"
+            android:padding="10dp"
+            />
+
+        <ListView
+            android:id="@+id/listview_craft"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/element_background"
+            />
+    </LinearLayout>
+</LinearLayout>

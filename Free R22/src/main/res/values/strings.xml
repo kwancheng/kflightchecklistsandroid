@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Free R22 KFlight Checklists</string>
+
+    <string name="google_analytics_id">UA-55704132-3</string>
+
+    <!-- Ad Network App Keys -->
+    <string name="inmobi_app_key">0138bf8a305e467d8e959462ab233b1a</string>
+    <string name="ad_colony_app_key">appb38e687f388c4b7d96</string>
+    <string name="ad_colony_zone_id">vz16f016050b9247fda8</string>
+    <string name="ad_mob_ad_unit_id">ca-app-pub-9277399067724646/2873701944</string>
+    <string name="ad_mob_banner_ad_unit_id">ca-app-pub-9277399067724646/1396968746</string>
+    <string name="lead_bolt_app_fireworks_api_key">hHE0dM8tQI7Ul9cPXo9p38vywbHalOnU</string>
+    <string name="lead_bolt_interstitial_id">897630227</string>
+    <string name="native_x_app_key">22232</string>
+    <string name="start_app_developer_id">110788583</string>
+    <string name="start_app_app_key">210650223</string>
+    <string name="super_sonic_ads_app_key">3236a385</string>
+    <string name="super_sonic_ads_user_id">KFCL</string>
+    <string name="tap_joy_app_key">45e2af2a-b4db-4964-b43f-a3d6a183be47</string>
+    <string name="tap_joy_secret_key">t3FfaF7zFfzLN3SiD3bR</string>
+    <string name="vungle_app_key">com.acproma.kflightchecklists.freer22</string>
+</resources>
